@@ -46,6 +46,17 @@ experience:
         * UX design
         * User research, including user interviews and surveys
 
+- title: BTech Computer Science
+    company: Abubakar Tafawa Balewa University
+    company_url: ''
+    company_logo: org-x
+    location: Bauchi, Nigeria
+    date_start: '2004-09-06'
+    date_end: '2010-09-28'
+    description: |2-
+        * My dissertation was on Online banking
+
+
 design:
   columns: '1'
 ---
