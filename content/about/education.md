@@ -53,7 +53,7 @@ experience:
     location: Bauchi, Nigeria
     date_start: '2004-09-06'
     date_end: '2010-09-28'
-    description: |2-
+    description: |1-
         * My dissertation was on Online banking
 
 
