@@ -1,6 +1,6 @@
 ---
 title: My publications
-summary: Write about your project here...
+summary: My publications are as follows...
 tags:
   - P
 date: 2022-01-01
