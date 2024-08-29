@@ -41,7 +41,10 @@ experience:
     location: St Andrews
     date_start: '2016-09-06'
     date_end: '2017-12-07'
-    description: My dissertation was on Simple Grid
+    description: |2-
+        * My dissertation was on UX design - Simple Grid Interface
+        * UX design
+        * User research, including user interviews, surveys
 
 design:
   columns: '1'
