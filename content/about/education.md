@@ -44,7 +44,7 @@ experience:
     description: |2-
         * My dissertation was on UX design - Simple Grid Interface
         * UX design
-        * User research, including user interviews, surveys
+        * User research, including user interviews, surveys.
 
 design:
   columns: '1'
