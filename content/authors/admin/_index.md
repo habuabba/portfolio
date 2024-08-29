@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Adamu Habu Adamu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'PhD candidate in Human Computer Interaction'
 
 # Status emoji
 status:
@@ -14,28 +14,28 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: University of St Andrews
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include UX & user-centered design and user research, including user interviews, surveys, and usability testing.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- UX design
+#- User-centered design
+#- User research, including user interviews, surveys, and usability testing
 
 #education:
 #  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+#  - course: PhD candidate in Human Computer Interaction
+#    institution: University of St Andrews
+#    year: 2025
+#  - course: MSc in Computind and Information Technology
+#    institution: University of St Andrews
+#    year: 2017
+#  - course: BTech in Computer Science
+#    institution: University of St Andrews
+#    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,12 +45,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/wowchemy
+ # - icon: instagram
+ #  icon_pack: fab
+ #   link: https://instagram.com/geocushen
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,8 +66,7 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Adamu Habu is a PhD researcher in Human Computer Interaction at the University of St Andrews, Scotland, UK. His research aims to develop a scalable citizen science framework using a user-centered approach and UX design techniques for researchers who utilise data subject rights as a methodology for data collection.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

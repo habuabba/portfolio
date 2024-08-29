@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Citizen science
       tag: ML
-    - name: Computer Vision
+    - name: Simple grid
       tag: CV
-    - name: NLP
+    - name: Publications
       tag: NLP
 
 design:
