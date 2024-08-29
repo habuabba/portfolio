@@ -1,5 +1,5 @@
 ---
-title: Cosmetics Semantic Search
+title: Simple grid
 summary: Write about your project here...
 tags:
   - SG

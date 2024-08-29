@@ -1,5 +1,5 @@
 ---
-title: Cartoon Face Generator
+title: Citizen science for data subject driven studies
 summary: Write about your project here...
 tags:
   - CS
