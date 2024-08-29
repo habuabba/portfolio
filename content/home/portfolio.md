@@ -29,11 +29,11 @@ content:
     - name: All
       tag: '*'
     - name: Citizen science
-      tag: ML
+      tag: CS
     - name: Simple grid
-      tag: CV
+      tag: SG
     - name: Publications
-      tag: NLP
+      tag: P
 
 design:
   columns: '1'

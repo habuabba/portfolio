@@ -1,8 +1,8 @@
 ---
-title: Recommendation Systems
+title: My publications
 summary: Write about your project here...
 tags:
-  - ML
+  - P
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://scholar.google.com/citations?user=aiU0Tv0AAAAJ&hl=en
 ---
