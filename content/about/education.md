@@ -25,7 +25,7 @@ experience:
   - title: PhD candidate Human Computer Interaction
     company: University of St Andrews
     company_url: 'https://www.st-andrews.ac.uk/computer-science/'
-    company_logo: org-S
+    company_logo: org-x
     location: St Andrews
     date_start: '2021-08-27'
     date_end: '2025-08-26'
@@ -37,7 +37,7 @@ experience:
   - title: MSc Computing and Information Technology
     company: University of St Andrews
     company_url: 'https://www.st-andrews.ac.uk/computer-science/'
-    company_logo: org-S
+    company_logo: org-x
     location: St Andrews
     date_start: '2016-09-06'
     date_end: '2017-12-07'
