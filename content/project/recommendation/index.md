@@ -1,6 +1,6 @@
 ---
-title: My publications
-summary: My publications are as follows...
+title: Research
+summary: My academic publications
 tags:
   - P
 date: 2022-01-01
