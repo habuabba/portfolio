@@ -4,5 +4,5 @@ summary: I am currently working on my PhD research, which focuses on developing 
 tags:
   - CS
 date: 2022-01-01
-external_link: http://github.com
+external_link: https://www.dropbox.com/scl/fi/hcc1iekuowz550lz3snzb/Citizen-science-project.pdf?rlkey=ff5d0vzgpg1gamu2pf59gay9i&st=dqdq9ymy&dl=0
 ---
