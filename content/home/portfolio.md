@@ -32,8 +32,8 @@ content:
       tag: CS
     - name: Simple grid
       tag: SG
-    - name: Publications
-      tag: P
+    - name: Research
+      tag: RP
 
 design:
   columns: '1'
