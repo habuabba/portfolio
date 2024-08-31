@@ -30,7 +30,7 @@ content:
       tag: '*'
     - name: Citizen science
       tag: CS
-    - name: Simple grid
+    - name: SimpleGrid
       tag: SG
     - name: Research
       tag: RP
