@@ -1,6 +1,6 @@
 ---
 title: Publications
-summary: My academic publications
+summary: My academic publications (Photo credit, Google)
 tags:
   - RP
 date: 2022-01-01
