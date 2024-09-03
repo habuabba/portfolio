@@ -1,6 +1,6 @@
 ---
 title: Citizen science for data subject driven studies
-summary: Many countries legislated data protection and privacy laws. Some of these laws created rights for individuals (data subjects). Researchers use these rights as a methodology for data collection. This work focuses on developing a scalable citizen science framework using a user-centered approach and UX design techniques for researchers who utilise data subject rights for data collection. This project involves engaging stakeholders such as policymakers, data controllers, lawyers, researchers, and public members to streamline the exercise of data subject rights for non-experts in compliance with data protection regulations. (Photo credit; Google)
+summary: Many countries legislated data protection and privacy laws. Some of these laws created rights for individuals (data subjects). Researchers use these rights as a methodology for data collection. We develop a scalable citizen science framework using a user-centered approach and UX design techniques for researchers who utilise data subject rights for data collection. This project involves engaging stakeholders such as policymakers, data controllers, lawyers, researchers, and public members to streamline the exercise of data subject rights for non-experts in compliance with data protection regulations. (Photo credit; Google)
 tags:
   - CS
 date: 2022-01-01
