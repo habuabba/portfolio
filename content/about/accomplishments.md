@@ -34,10 +34,10 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2020-05-05'
-    description: 'Funding for a HCI PhD research in the School of Computer Science.' 
+    description: 'Funding for a HCI PhD research in the School of Computer Science, University of St Andrews.' 
     organization: School of Computer Science, Univesrity of St Andrews
     organization_url: https://www.st-andrews.ac.uk/computer-science/
-    title: 'Handsel Scholarship which covers full international PhD tuition fees'
+    title: 'Handsel Scholarship which covers full international PhD tuition fees, University of St Andrews'
     url: ''
   - certificate_url: ''
     date_end: '2017-12-07'
