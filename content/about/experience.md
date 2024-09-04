@@ -22,29 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: HCI PhD researcher
+    company: School of Computer Science, University of St Andrews
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: St Andrews, Scotland
+    date_start: '2021-08-26'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Design and conduct independent research using a variety of qualitative research and quantitative methods.
+        * Work cross-functionally with stakeholders such as policymakers, data controllers, lawyers, researchers, and public members.
+        * Impact analysis 
+        * UX Design
+        * Conducting user research, including user interviews, surveys, and usability testing.
+        * Design wireframes, prototypes, and high-fidelity mock-ups.
+        * Communication research findings.
+        * Research, analyse, and interpret data protection legislations.      
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Academic Skills Program Coordinator
+    company: School of Computer Science, University of St Andrews
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_logo: org-gc
+    location: St Andrews, Scotland
+    date_start: '2023-06-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Managing a budget, recruiting workshop leaders from the PhD community.
+        * Collaborating with academic staff to develop a framework for delivering subject-specific academic skills to a large number of undergraduate students.
+        * Delivering workshops to undergradute students.
+        
 design:
   columns: '1'
 ---
