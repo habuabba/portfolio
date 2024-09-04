@@ -51,10 +51,26 @@ experience:
     description: |2-
         Responsibilities include:
         
+        * Evaluating projects related to enhancement themes. 
+        * Assessing the effectiveness, impact, and sustainability of Resilient Learning Communities programs or interventions..
+        * Provide evidence-based insights that can inform decision-making, improve program design and implementation, and ultimately enhance the resilience and well-being of the communities involved.
+        
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+ 
+
+=======
+>>>>>>> parent of 5fa8d92 (updates)
+=======
+>>>>>>> parent of 5fa8d92 (updates)
         * Managing a budget, recruiting workshop leaders from the PhD community.
         * Collaborating with academic staff to develop a framework for delivering subject-specific academic skills to a large number of undergraduate students.
         * Delivering workshops to undergradute students.
         
+=======
+>>>>>>> parent of 5fa8d92 (updates)
 design:
   columns: '1'
 ---
