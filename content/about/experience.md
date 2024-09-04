@@ -35,8 +35,7 @@ experience:
         * Design and conduct independent research using a variety of qualitative research and quantitative methods.
         * Work cross-functionally with stakeholders such as policymakers, data controllers, lawyers, researchers, and public members.
         * Impact analysis 
-        * UX Design - contextual inquiry and analysis, sketching, and prototyping.
-        * User-Centered Design (UCD)
+        * UX Design
         * Conducting user research, including user interviews, surveys, and usability testing.
         * Design wireframes, prototypes, and high-fidelity mock-ups.
         * Communication research findings.
@@ -69,7 +68,17 @@ experience:
         * Evaluating projects related to enhancement themes. 
         * Assessing the effectiveness, impact, and sustainability of Resilient Learning Communities programs or interventions..
         * Provide evidence-based insights that can inform decision-making, improve program design and implementation, and ultimately enhance the resilience and well-being of the communities involved.
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+ 
+
+=======
         
+>>>>>>> parent of 5fa8d92 (updates)
+=======
+        
+>>>>>>> parent of 5fa8d92 (updates)
 design:
   columns: '1'
 ---

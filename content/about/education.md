@@ -48,6 +48,10 @@ experience:
         * User research, including user interviews and surveys
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 5fa8d92 (updates)
 
 
 design:
