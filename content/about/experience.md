@@ -77,7 +77,7 @@ experience:
     location: St Andrews, Scotland
     date_start: '2022-01-10'
     date_end: ''
-    description: |2-
+    description: |1-
         Responsibilities include:
         
         * Contributing towards teaching, Lab demonstration for first and second years, tutorials and marking undergraduate course work submission.
@@ -89,7 +89,7 @@ experience:
     location: St Andrews, Scotland
     date_start: '2023-10-15'
     date_end: ''
-    description: |2-
+    description: |1-
         Responsibilities include:
         
         * Represent the views of fellow postgraduate students in the university decision-making.
