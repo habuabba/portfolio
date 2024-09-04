@@ -42,21 +42,7 @@ experience:
         * Communication research findings.
         * Research, analyse, and interpret data protection legislations.      
 
-  - title: Academic Skills Program Coordinator
-    company: School of Computer Science, University of St Andrews
-    company_url: ''
-    company_logo: org-gc
-    location: St Andrews, Scotland
-    date_start: '2023-06-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Managing a budget, recruiting workshop leaders from the PhD community.
-        * Collaborating with academic staff to develop a framework for delivering subject-specific academic skills to a large number of undergraduate students.
-        * Delivering workshops to undergradute students.
-
-  - title: Research Assistant
+- title: Research Assistant
     company: Enhancement theme, University of St Andrews 
     company_url: ''
     company_logo: org-gc
