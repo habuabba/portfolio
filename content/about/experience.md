@@ -35,7 +35,8 @@ experience:
         * Design and conduct independent research using a variety of qualitative research and quantitative methods.
         * Work cross-functionally with stakeholders such as policymakers, data controllers, lawyers, researchers, and public members.
         * Impact analysis 
-        * UX Design
+        * UX Design - contextual inquiry and analysis, sketching, and prototyping.
+        * User-Centered Design (UCD)
         * Conducting user research, including user interviews, surveys, and usability testing.
         * Design wireframes, prototypes, and high-fidelity mock-ups.
         * Communication research findings.
@@ -68,7 +69,31 @@ experience:
         * Evaluating projects related to enhancement themes. 
         * Assessing the effectiveness, impact, and sustainability of Resilient Learning Communities programs or interventions..
         * Provide evidence-based insights that can inform decision-making, improve program design and implementation, and ultimately enhance the resilience and well-being of the communities involved.
+
+  - title: Graduate Teaching Assistant
+    company: School of Computer Science, University of St Andrews
+    company_url: ''
+    company_logo: org-gc
+    location: St Andrews, Scotland
+    date_start: '2022-01-10'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
         
+        * Contributing towards teaching, Lab demonstration for first and second years, tutorials and marking undergraduate course work submission.
+
+- title: Postgraduate Graduate Research Officer
+    company: Student Association, University of St Andrews
+    company_url: ''
+    company_logo: org-gc
+    location: St Andrews, Scotland
+    date_start: '2023-10-15'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Represent the views of fellow postgraduate students in the university decision-making.
+
 design:
   columns: '1'
 ---
