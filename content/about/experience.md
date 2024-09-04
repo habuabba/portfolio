@@ -50,7 +50,7 @@ experience:
     date_start: '2024-03-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Responsibilities include: 
         
         * Evaluating projects related to enhancement themes. 
         * Assessing the effectiveness, impact, and sustainability of Resilient Learning Communities programs or interventions..
