@@ -33,7 +33,7 @@ experience:
         * Dissertation on Designing a Scalable Citizen Science Framework for Data Subject Rights Driven Studies via a User-centered approach
         * UX design
         * User-Centered Design (UCD) 
-        * User research, including user interviews, surveys, and usability testing 
+        * User research, including user interviews, surveys, and usability testing.
 
   - title: MSc Computing and Information Technology
     company: University of St Andrews
@@ -51,6 +51,8 @@ experience:
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+
+
 
 >>>>>>> parent of 5fa8d92 (updates)
 

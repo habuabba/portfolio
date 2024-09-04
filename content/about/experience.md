@@ -57,6 +57,7 @@ experience:
         
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
  
 
@@ -68,6 +69,8 @@ experience:
         * Collaborating with academic staff to develop a framework for delivering subject-specific academic skills to a large number of undergraduate students.
         * Delivering workshops to undergradute students..
         
+=======
+>>>>>>> parent of 5fa8d92 (updates)
 design:
   columns: '1'
 ---
