@@ -22,29 +22,49 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: HCI PhD researcher
+    company: School of Computer Science, University of St Andrews
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: St Andrews, Scotland
+    date_start: '2021-08-26'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Design and conduct independent research using a variety of qualitative research and quantitative methods.
+        * Work cross-functionally with stakeholders such as policymakers, data controllers, lawyers, researchers, and public members.
+        * Impact analysis 
+        * UX Design
+        * Conducting user research, including user interviews, surveys, and usability testing.
+        * Design wireframes, prototypes, and high-fidelity mock-ups.
+        * Communication research findings.
+        * Research, analyse, and interpret data protection legislations.      
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+- title: Research Assistant
+    company: Enhancement theme, University of St Andrews 
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-gc
+    location: St Andrews, Scotland
+    date_start: '2024-03-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include: 
+        
+        * Evaluating projects related to enhancement themes. 
+        * Assessing the effectiveness, impact, and sustainability of Resilient Learning Communities programs or interventions..
+        * Provide evidence-based insights that can inform decision-making, improve program design and implementation, and ultimately enhance the resilience and well-being of the communities involved.
+<<<<<<< HEAD
+<<<<<<< HEAD
 
+ 
+
+=======
+        
+>>>>>>> parent of 5fa8d92 (updates)
+=======
+        
+>>>>>>> parent of 5fa8d92 (updates)
 design:
   columns: '1'
 ---
