@@ -53,7 +53,7 @@ experience:
         
         * Managing a budget, recruiting workshop leaders from the PhD community.
         * Collaborating with academic staff to develop a framework for delivering subject-specific academic skills to a large number of undergraduate students.
-        * Delivering workshops to undergradute students..
+        * Delivering workshops to undergradute students.
         
 design:
   columns: '1'
